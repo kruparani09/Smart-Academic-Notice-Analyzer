@@ -28,7 +28,8 @@ streamlit run app.py
 1. Visit https://share.streamlit.io/ and sign in with GitHub.
 2. Click **Create app**.
 3. Select repository `kruparani09/Smart-Academic-Notice-Analyzer`, branch `main`, and main file path `app.py`.
-4. Deploy. Initial startup can take several minutes because Python packages and the summarization model may need to download.
+4. In **Advanced settings**, choose **Python 3.11** (the spaCy model dependency is pinned for spaCy 3.7.x).
+5. Click **Deploy**. Initial setup can take several minutes because Python packages may need to download. The large summarization model downloads only when a user enables summarization.
 
 ## Important deployment note
 The summarizer `sshleifer/distilbart-cnn-6-6` downloads model weights on first use, so the first summary can be slow and use considerable memory. If deployment fails because the instance is memory-limited, the summarizer can be disabled or replaced with the built-in extractive fallback.
