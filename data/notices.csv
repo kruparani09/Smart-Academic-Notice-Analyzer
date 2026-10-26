@@ -1,0 +1,61 @@
+notice_id,category,source,text
+EXA-001,Examination,Exam cell,The end semester examination for Computer Engineering will begin on 18 November 2026. Students must carry their college identity cards and hall tickets.
+EXA-002,Examination,Examination Department,Mid-semester examinations are scheduled from 12 October 2026 in the assigned classrooms. Check the timetable before arriving.
+EXA-003,Examination,Exam coordinator,The practical examination for Database Management Systems will take place on 22 November 2026 at Laboratory 3. Students should report fifteen minutes early.
+EXA-004,Examination,University examination cell,The revised university examination timetable has been published. The Mathematics paper is now scheduled for 25 November 2026.
+EXA-005,Examination,Academic office,Students must submit their examination forms by 5 November 2026 to be eligible for the upcoming semester examinations.
+EXA-006,Examination,Department office,The viva voce examination for the final-year project will be held on 3 December 2026 in Seminar Hall A.
+EXA-007,Examination,Course instructor,"The internal assessment test will be conducted on 9 November 2026. The syllabus includes Units 1, 2, and 3."
+EXA-008,Examination,Exam cell,Hall tickets for the winter examination can be collected from the examination section starting 16 November 2026.
+EXA-009,Examination,University examination section,The supplementary examination registration deadline is 30 October 2026. Late applications may not be accepted.
+EXA-010,Examination,Project coordinator,The oral examination for the internship report is scheduled for 27 November 2026. Bring the signed report and presentation.
+EVE-001,Event,IEEE MBIT Student Branch,IEEE MBIT Student Branch will organize a technical workshop on 14 November 2026 in Seminar Hall 2. Register by 10 November 2026.
+EVE-002,Event,Cultural committee,The annual cultural festival will take place on 20 November 2026 at the college auditorium. Interested students should register online.
+EVE-003,Event,Computer Engineering Department,A cybersecurity guest lecture is scheduled for 7 November 2026 at 11:00 AM in Room 204.
+EVE-004,Event,Innovation club,The innovation club invites students to an ideathon on 21 November 2026. The event will begin at 9:30 AM in the main auditorium.
+EVE-005,Event,Coding club,A coding competition will be held on 29 November 2026 in the programming laboratory. Teams must complete registration by 24 November 2026.
+EVE-006,Event,Alumni association,The department is hosting an alumni interaction session on 13 November 2026 in Seminar Hall A.
+EVE-007,Event,Training and Placement Cell,Students are invited to attend a career guidance seminar on 18 November 2026 at 2:00 PM in the conference room.
+EVE-008,Event,Robotics club,The college will conduct a robotics demonstration on 26 November 2026 at the central lawn. All students are welcome.
+EVE-009,Event,Technical committee,A workshop on cloud computing will be organized on 6 December 2026 in Lab 5. Registration closes on 2 December 2026.
+EVE-010,Event,Student branch,The student branch meeting will be held on 30 October 2026 at 4:00 PM in the department seminar room.
+HOL-001,Holiday,Administrative office,The college will remain closed on 31 October 2026 on account of a public holiday. Regular lectures will resume on the next working day.
+HOL-002,Holiday,Principal's office,All academic activities are suspended on 1 November 2026 due to the festival holiday.
+HOL-003,Holiday,Administration,The institute will observe a holiday on 14 November 2026. The library and laboratories will remain closed.
+HOL-004,Holiday,Academic administration,There will be no lectures on 25 December 2026 because of the Christmas holiday.
+HOL-005,Holiday,Administrative office,The college campus will remain closed on 2 November 2026 for a scheduled local holiday.
+HOL-006,Holiday,Principal,A holiday has been declared for 15 August 2026. Classes will resume as per the regular timetable on the following working day.
+HOL-007,Holiday,Administration,The institute will remain closed on 24 October 2026. Hostel services will continue as per the hostel notice.
+HOL-008,Holiday,Academic office,"Due to the declared holiday on 4 November 2026, all scheduled lectures are postponed."
+HOL-009,Holiday,Registrar,The college will observe a winter break from 24 December 2026 to 2 January 2027.
+HOL-010,Holiday,Institute administration,All departments will remain closed on 26 January 2027 for Republic Day.
+ASS-001,Assignment/Submission,Course instructor,Students must submit the Software Engineering assignment by 8 November 2026 through the learning portal. Late submissions may receive a penalty.
+ASS-002,Assignment/Submission,Project coordinator,The final project report must be submitted to the department office by 19 November 2026 in printed and PDF formats.
+ASS-003,Assignment/Submission,Lab in-charge,Laboratory records for Microprocessor must be completed and submitted by 12 November 2026.
+ASS-004,Assignment/Submission,NLP faculty,"The deadline for the NLP mini-project proposal is 5 November 2026. Include the objective, methodology, and expected outcomes."
+ASS-005,Assignment/Submission,Training and Placement Cell,All students must upload their internship completion certificates by 30 November 2026.
+ASS-006,Assignment/Submission,Course faculty,The Database Management Systems assignment submission closes on 10 November 2026 at 5:00 PM.
+ASS-007,Assignment/Submission,Project coordinator,Submit the signed project synopsis to your guide by 17 November 2026 for approval.
+ASS-008,Assignment/Submission,Student section,The last date to submit the scholarship documents is 6 November 2026 at the student section.
+ASS-009,Assignment/Submission,Seminar coordinator,Students are required to submit their seminar slides and abstract by 23 November 2026.
+ASS-010,Assignment/Submission,Lab instructor,The cloud computing practical file must be submitted before 15 November 2026.
+PLA-001,Placement,Training and Placement Cell,The Training and Placement Cell will conduct a campus recruitment drive on 16 November 2026. Eligible students must register by 11 November 2026.
+PLA-002,Placement,Placement office,A software company will conduct a pre-placement talk on 9 November 2026 at 10:30 AM in the auditorium.
+PLA-003,Placement,Career development cell,Students interested in the internship opportunity must submit their resumes by 7 November 2026 through the placement portal.
+PLA-004,Placement,Recruitment team,The aptitude test for shortlisted candidates is scheduled for 12 November 2026 in Lab 2. Bring your college identity card.
+PLA-005,Placement,Placement coordinator,A technical interview round will be held on 19 November 2026 for eligible Computer Engineering students.
+PLA-006,Placement,Training and Placement Cell,The registration deadline for the graduate trainee recruitment drive is 14 November 2026.
+PLA-007,Placement,Placement office,A company presentation for final-year students will take place on 5 November 2026 in Seminar Hall 1.
+PLA-008,Placement,Career services,Students must update their resumes and academic details before 8 November 2026 to participate in campus placements.
+PLA-009,Placement,Recruitment team,The online coding assessment will be conducted on 22 November 2026. Registered candidates will receive the test link by email.
+PLA-010,Placement,Placement coordinator,An internship interview is scheduled for 26 November 2026 at 1:00 PM in the placement office.
+GEN-001,General Announcement,Academic office,All students are requested to verify their contact details in the student portal by 13 November 2026.
+GEN-002,General Announcement,Library administration,The college library will extend its reading room hours until 8:00 PM from 1 November 2026.
+GEN-003,General Announcement,Campus administration,Students must keep their identity cards visible while on campus. The instruction is effective immediately.
+GEN-004,General Announcement,Department office,The department office has changed its working hours to 9:00 AM to 4:30 PM starting 2 November 2026.
+GEN-005,General Announcement,Student section,Students are requested to update their emergency contact information with the student section by 20 November 2026.
+GEN-006,General Announcement,IT support,The institute Wi-Fi network will undergo maintenance on 28 October 2026 between 6:00 PM and 8:00 PM.
+GEN-007,General Announcement,Campus security,Lost property can be collected from the security office during regular working hours.
+GEN-008,General Announcement,Transport office,The college bus schedule has been revised effective 3 November 2026. Check the transport notice board for details.
+GEN-009,General Announcement,Laboratory administration,All students must follow the updated laboratory safety guidelines from 10 November 2026.
+GEN-010,General Announcement,IT support,The student portal will be unavailable on 4 November 2026 from 7:00 PM to 9:00 PM due to maintenance.
