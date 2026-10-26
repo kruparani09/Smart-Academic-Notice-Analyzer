@@ -156,11 +156,12 @@ def extractive_fallback(text, max_sentences=3):
 
 
 def summarize_text(text):
-    # The first call downloads model files; if anything fails, use a transparent local fallback.
+    # Short notices do not need the large pretrained model.
+    if len(text.split()) < 45:
+        return extractive_fallback(text, max_sentences=2), "Short notice: using extractive summary."
+    # The first longer summary downloads model files; failures use an extractive fallback.
     try:
         summarizer = _get_summarizer()
-        if len(text.split()) < 45:
-            return extractive_fallback(text, max_sentences=2), "Short notice: using extractive summary."
         words = text.split()
         chunks = []
         step = 750
